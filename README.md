@@ -14,8 +14,8 @@
 <hr/>
 
 <h2>🛠️ Languages and Tools:</h2>
-<div>
-  <img src="https://github.com/AmletixQ/AmletixQ/images/nextdotjs.svg" alt="nextjs" />
+<div style="background-color: white">
+  <img src="https://github.com/AmletixQ/AmletixQ/raw/main/images/nextdotjs.svg" alt="nextjs" height="36"/>
   <img src="" alt="" />
   <img src="" alt="" />
   <img src="" alt="" />
