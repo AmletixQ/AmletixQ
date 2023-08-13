@@ -3,7 +3,7 @@
 <h2 align="center">Computer science student, Software engineer from Russia 🇷🇺</h2>
 
 - <h3>🌱 I’m currently learning <strong>web</strong></h3>
-- <h3>📫 How to reach me: <a href="https//t.me/AmletixQ" target="_blank">AmletixQ</a></h3>
+- <h3>📫 How to reach me: <a href="https://t.me/AmletixQ" target="_blank">AmletixQ</a></h3>
 
 <hr/>
 <h2>🔥 Streak stats & Profile assessment</h2>
