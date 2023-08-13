@@ -56,7 +56,7 @@
 
 <br/>
 <div align="center">
-  <h2>Good luck 🔥 <br/>I hope we work together</h2>
+  <h2>Good luck 🔥 <br/>I hope we will work together in the future</h2>
 </div>
 
 <!--
