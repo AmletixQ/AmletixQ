@@ -15,7 +15,7 @@
 
 <h2>🛠️ Languages and Tools:</h2>
 <div>
-  <img src="" alt="" />
+  <img src="https://github.com/AmletixQ/AmletixQ/images/nextdotjs.svg" alt="nextjs" />
   <img src="" alt="" />
   <img src="" alt="" />
   <img src="" alt="" />
