@@ -9,7 +9,7 @@
 <h2>🔥 Streak stats & Profile assessment</h2>
 <div align="center" style="margin-inline: 4px; display: flex;">
   <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=AmletixQ&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=AmletixQ&theme=transparent" alt="GitHub Streak">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=AmletixQ&chache_seconds=14400&theme=transparent" alt="GitHub Streak">
 </div>
 <hr/>
 
