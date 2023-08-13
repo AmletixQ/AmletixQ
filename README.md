@@ -6,7 +6,7 @@
 - <h4>📫 How to reach me: <a href="https//t.me/AmletixQ" target="_blank">AmletixQ</a></h4>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmletixQ&theme=transparent&border_radius=1&locale=ru&date_format=M%20j%5B%2C%20Y%5D&border=721DEB&stroke=E0EB00)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmletixQ&theme=transparent&border_radius=1&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 <!--
