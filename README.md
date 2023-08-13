@@ -15,16 +15,13 @@
 
 <h2>🛠️ Languages and Tools:</h2>
 <div style="background-color: white">
-  <img src="https://github.com/AmletixQ/AmletixQ/raw/main/images/nextdotjs.svg" alt="nextjs" height="36"/>
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
+  <img src="https://github.com/AmletixQ/AmletixQ/raw/main/images/nextjs.svg" alt="nextjs" height="36"/>
+  <img src="https://github.com/AmletixQ/AmletixQ/raw/main/images/react.svg" alt="" height="36" />
+  <img src="https://github.com/AmletixQ/AmletixQ/raw/main/images/javascript.svg" alt="" height="36" />
+  <img src="https://github.com/AmletixQ/AmletixQ/raw/main/images/typescript.svg" alt="" height="36" />
+  <img src="https://github.com/AmletixQ/AmletixQ/raw/main/images/tailwindcss.svg" alt="" height="36" />
+  <img src="https://github.com/AmletixQ/AmletixQ/raw/main/images/css.svg" alt="" height="36" />
+  <img src="https://github.com/AmletixQ/AmletixQ/raw/main/images/html.svg" alt="" height="36" />
 </div>
 
 <!--
