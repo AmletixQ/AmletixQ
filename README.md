@@ -13,6 +13,20 @@
 </div>
 <hr/>
 
+<h2>🛠️ Languages and Tools:</h2>
+<div>
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+</div>
+
 <!--
 **AmletixQ/AmletixQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
