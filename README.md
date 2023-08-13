@@ -55,7 +55,9 @@
 </div>
 
 <br/>
-<h2 align="center">Good luck 🔥 I hope we work together</h2>
+<div align="center">
+  <h2>Good luck 🔥 <br/>I hope we work together</h2>
+</div>
 
 <!--
 **AmletixQ/AmletixQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
