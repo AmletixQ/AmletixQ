@@ -2,16 +2,29 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Computer science student, Software engineer from Russia 🇷🇺</h2>
 
+- <h3>🔭 I’m currently working on <a href="https://github.com/AmletixQ/tsx-next-auth-todo">fullstack todos application</a></h3>
 - <h3>🌱 I’m currently learning <strong>web</strong></h3>
 - <h3>📫 How to reach me: <a href="https://t.me/AmletixQ" target="_blank">AmletixQ</a></h3>
+- <h3>👯 I'm cooperating with <a href="https://github.com/askerkh">Asker Khuzhokov</a></h3>
+- <h3>😊 I'm looking for a project that can be helped</h3>
+<div align="center">
+  <h2>⚡ Fun fact</h2>
+  <h3>You constantly maintain eye contact during a conversation and seem to be looking straight into the soul, especially when you listen...</h3>
+  <h2>My favorite girl ❤️</h2>
+</div>
 
-<h2>🔥 Streak stats & Profile assessment</h2>
+<br/>
+
+<h2>🔥 Streak stats</h2>
+<div align="center">
+  <img src="https://metrics.lecoq.io/AmletixQ?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FMoscow" alt="" />
+</div>
+<h2>💪 Profile assessment</h2>
 <div align="center">
   <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=AmletixQ&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </div>
-<div align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=AmletixQ&chache_seconds=14400&theme=transparent" alt="GitHub Streak">
-</div>
+
+<br/>
 
 <h2>🛠️ Languages and Tools</h2>
 <div align="center">
@@ -41,14 +54,14 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="" />
 </div>
 
+<br/>
+<h2 align="center">Good luck 🔥 I hope we work together</h2>
+
 <!--
 **AmletixQ/AmletixQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
