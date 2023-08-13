@@ -4,12 +4,14 @@
 
 - <h3>🌱 I’m currently learning <strong>web</strong></h3>
 - <h3>📫 How to reach me: <a href="https//t.me/AmletixQ" target="_blank">AmletixQ</a></h3>
----
-### Streak stats
+
+<hr/>
+<h2>🔥 Streak stats & Profile assessment</h2>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=AmletixQ&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmletixQ&theme=transparent" alt="GitHub Streak">
 </div>
-
+<hr/>
 
 <!--
 **AmletixQ/AmletixQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
