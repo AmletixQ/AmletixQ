@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https:vk.com/amletixq" target="_blank">Amridin</a> 
+<h1 align="center">Hi there, I'm <a href="https://vk.com/amletixq" target="_blank">Amridin</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Computer science student, Software engineer from Russia 🇷🇺</h2>
 
