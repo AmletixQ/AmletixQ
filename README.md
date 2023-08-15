@@ -15,17 +15,6 @@
 
 <br/>
 
-<h2>🔥 Profile assessment</h2>
-<div align="center">
-  <img src="https://metrics.lecoq.io/AmletixQ?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FMoscow" alt="" />
-</div>
-<h2>💪 Streak stats</h2>
-<div align="center">
-  <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=AmletixQ&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-</div>
-
-<br/>
-
 <h2>🛠️ Languages and Tools</h2>
 <div align="center">
   <h3>🔧 Languages:</h3>
