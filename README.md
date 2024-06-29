@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
 <h2 align="center">Computer science student, Software engineer from Russia 🇷🇺</h2>
 
-- <h3>🔭 I’m currently working on <a href="https://github.com/AmletixQ/tsx-next-auth-todo">fullstack todos application</a></h3>
 - <h3>🌱 I’m currently learning <strong>web</strong></h3>
 - <h3>📫 How to reach me: <a href="https://t.me/AmletixQ" target="_blank">AmletixQ</a></h3>
 - <h3>👯 I'm cooperating with <a href="https://github.com/askerkh">Asker Khuzhokov</a></h3>
