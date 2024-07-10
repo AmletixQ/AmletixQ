@@ -4,7 +4,6 @@
 
 - <h3>🌱 I’m currently learning <strong>web</strong></h3>
 - <h3>📫 How to reach me: <a href="https://t.me/AmletixQ" target="_blank">AmletixQ</a></h3>
-- <h3>👯 I'm cooperating with <a href="https://github.com/askerkh">Asker Khuzhokov</a></h3>
 - <h3>😊 I'm looking for a project that can be helped</h3>
 <div align="center">
   <h2>⚡ Fun fact</h2>
