@@ -61,7 +61,7 @@ Short description of what it does and why it's interesting
 
 ## 📊 GitHub Stats
 
-[![AmletixQ Github Stats](https://github-readme-stats-fast.vercel.app/api?username=AmletixQ&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![AmletixQ Github Stats](https://github-readme-stats-fast.vercel.app/api?username=AmletixQ&user=AmletixQ&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ---
 
